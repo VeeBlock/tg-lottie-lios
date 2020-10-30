@@ -1,0 +1,19 @@
+# Xcode
+xcuserdata/
+
+# AppCode
+.idea/
+
+# other
+build/
+
+# macOS
+.DS_Store
+
+*__gen.go
+*__ignore.go
+*.swp
+*.swo
+~i_*
+ig_*
+zzzig_*
