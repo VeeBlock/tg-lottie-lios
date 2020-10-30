@@ -8,6 +8,8 @@
 import Foundation
 #if os(OSX)
 import AppKit
+import UIKit
+
 
 /**
  Provides an image for a lottie animation from a provided Bundle.

@@ -19,8 +19,8 @@ For the first time, designers can create and ship beautiful animations without a
 
   s.homepage         = 'https://github.com/airbnb/lottie-ios'
   s.license          = { :type => 'Apache', :file => 'LICENSE' }
-  s.author           = { 'Carl' => '1254503980@qq.com' }
-  s.source           = { :git => 'https://github.com/airbnb/lottie-ios.git', :tag => s.version.to_s }
+  s.author           = { 'ToGreat' => 'togreat2018@gmail.com' }
+  s.source           = { :git => 'https://github.com/VeeBlock/tg-lottie-lios.git', :tag => s.version.to_s }
 
   s.swift_version = '5.0'
   s.ios.deployment_target = '9.0'
